@@ -21,7 +21,7 @@ Sou professor universitário na área de TI, mestrando em Engenharia da Software
 
 📬 **Como me encontrar:**
 - ✉️ Email: [jcguimaraes@gmail.com]
-- 🌐 Site pessoal: [https://jcguimaraesnet.github.io](https://jcguimaraesnet.github.io)
+- 🌐 Site pessoal: [https://jcguimaraesnet.github.io](https://jcguimaraesnet.github.io/jcguimaraesnet)
 - 🧠 Lattes: [Link para currículo Lattes]
 - 💡 Google Scholar: [Link para perfil no Scholar]
 
